@@ -1,0 +1,1 @@
+Added answer cache, changed GreetingService constructor and getAnswerMessage method, changed test method name

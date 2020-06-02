@@ -1,5 +1,6 @@
 package com.example.Application1;
 
+import Post.PostRequestList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

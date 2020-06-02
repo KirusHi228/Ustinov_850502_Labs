@@ -1,4 +1,6 @@
-package com.example.Application1;
+package Post;
+
+import Post.PostRequest;
 
 import java.util.ArrayList;
 import java.util.List;
